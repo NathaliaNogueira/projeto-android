@@ -1,4 +1,4 @@
-<div text-align: center;><h1> Site Projeto Android </h1></div>
+<div text-align: right><h1> Site Projeto Android </h1></div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width = 100px />
 <hr>
