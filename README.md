@@ -1,4 +1,4 @@
-<color: green> # Site Projeto Android </color: green>
+<color: green> # Site Projeto Android </color>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width = 100px />
 
