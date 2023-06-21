@@ -1,5 +1,5 @@
 
-  <h1>Site Projeto Android</h1>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="70px" />
+  <h1>Site Projeto Android</h1> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="70px" />
 
 
 <hr>
