@@ -15,4 +15,4 @@ Tecnologias utilizadas:
 
 <hr>
 
-Desenvolvido por <a href="https://www.linkedin.com/in/nathalia-nogueira12/" target="_blank" rel="external">Nathália Nogueira </a>
+Desenvolvido por <a href="https://www.linkedin.com/in/nathalia-nogueira12/" target="_blank" rel="external">Nathália Nogueira</a>.
